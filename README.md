@@ -4,7 +4,7 @@
 
 My name is Ariel Zidon, I'm a Computer Science & Mathematics BSc student at Ariel University. I'm making a great effort to keep this GitHub profile up to date with all my latest assignments and personal projects I'm working on, so you could get a clue for what it's like being a CS student.
 
-![Alt text](https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm/fullscreen)
+![Alt text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 Here are some ideas to get you started:
 
