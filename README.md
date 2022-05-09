@@ -5,8 +5,6 @@ My name is Ariel Zidon, I'm a Computer Science & Mathematics BSc student at Arie
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on app called Angel, you can see it here.
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...  -->
 - 🤔 I’m looking for help with finding a job and generally a place that will take me one step further in the high-tech world.
 - 💬 Ask me about anything you want hope I can help
 - 📫 How to reach me: facebook - "ariel zidon"
