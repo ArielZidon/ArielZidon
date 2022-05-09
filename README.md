@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on app called Angel, you can see it here.
 - 🤔 I’m looking for help with finding a job and generally a place that will take me one step further in the high-tech world.
 - 💬 Ask me about anything you want hope I can help
-- 📫 How to reach me: facebook - https://www.facebook.com/ariel.zidon/
+- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/ariel-zidon-b4357b176
 - ⚡ Fun fact: I try to play basketball at least once a week.
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArielZidon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
