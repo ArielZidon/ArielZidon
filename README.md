@@ -1,6 +1,6 @@
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ArielZidon)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+Welcome!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There+👋,+Welcome!!!)](https://git.io/typing-svg)
 
 My name is Ariel Zidon, I'm a Computer Science & Mathematics BSc student at Ariel University. I'm making a great effort to keep this GitHub profile up to date with all my latest assignments and personal projects I'm working on, so you could get a clue for what it's like being a CS student.
 
